@@ -1,3 +1,4 @@
+# Dokumentasi Git Add Commit Push
 print("==========================================")
 print("       RENTAL PLAYSTATION")
 print("==========================================")
